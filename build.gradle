@@ -1,4 +1,5 @@
-buildscript {
+buildscript 
+{
     ext 
 	{
         grailsVersion = project.grailsVersion
